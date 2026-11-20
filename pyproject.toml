@@ -19,7 +19,6 @@ dev = [
 ]
 
 [tool.uv]
-required-version = "==0.13.7"
 package = false   # an app, not a library: uv only manages the environment
 
 [tool.ruff]

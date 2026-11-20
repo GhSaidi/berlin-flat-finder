@@ -14,10 +14,25 @@ Built at **AI Builders × commIT Hack Day Berlin** (20 November 2026).
 ## Status
 - [x] Project setup
 - [ ] M1: semantic + filter search
+  - [x] Schema (`listings` with `vector(1536)` + HNSW index), synthetic data generator, embedding + seeding
+  - [ ] Search query + Streamlit UI
 - [ ] M2: districts, stats, hybrid (full-text + vector) ranking
 - [ ] M3: AI-written recommendation (RAG) + search log
 
 **Live demo:** _coming soon_
+
+## Run locally
+Requires Docker, [uv](https://docs.astral.sh/uv/) and an OpenAI API key.
+```
+cp .env.example .env
+docker compose up -d
+docker compose exec -T db psql -U postgres -d flats < sql/001_m1.sql
+uv sync
+uv run python generate_data.py
+uv run python seed.py
+```
+Add your `OPENAI_API_KEY` to `.env` before seeding. `generate_data.py` is deterministic (fixed seed);
+`seed.py` embeds all 200 listings in one API call.
 
 ## License
 See [LICENSE](LICENSE).

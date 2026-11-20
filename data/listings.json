@@ -1,0 +1,1602 @@
+[
+  {
+    "title": "Bright 1-room flat in Steglitz",
+    "district": "Steglitz",
+    "price_eur": 300,
+    "rooms": 1,
+    "size_m2": 23,
+    "description": "1-room flat, 23 m². Features: fast fibre internet, quiet courtyard, close to cafés and bars. Calm and suburban, with a botanical garden and good shopping streets."
+  },
+  {
+    "title": "Stylish 1-room flat in Mitte",
+    "district": "Mitte",
+    "price_eur": 490,
+    "rooms": 1,
+    "size_m2": 27,
+    "description": "1-room flat, 27 m². Features: fast fibre internet, close to cafés and bars, room for a home office. Central and busy, with museums, offices and great transport links."
+  },
+  {
+    "title": "Quiet 3-room flat in Pankow",
+    "district": "Pankow",
+    "price_eur": 1600,
+    "rooms": 3,
+    "size_m2": 94,
+    "description": "3-room flat, 94 m². Features: bathtub, pet-friendly, 5 min to U-Bahn, wooden floors. Green and peaceful, with villas, parks and a small-town feeling."
+  },
+  {
+    "title": "Sunny 1-room flat in Kreuzberg",
+    "district": "Kreuzberg",
+    "price_eur": 500,
+    "rooms": 1,
+    "size_m2": 27,
+    "description": "1-room flat, 27 m². Features: elevator, high ceilings, fast fibre internet, near a park. Lively and creative, full of cafés, bars, street food and canal-side walks."
+  },
+  {
+    "title": "Modern 3-room flat in Kreuzberg",
+    "district": "Kreuzberg",
+    "price_eur": 2210,
+    "rooms": 3,
+    "size_m2": 101,
+    "description": "3-room flat, 101 m². Features: quiet courtyard, elevator, room for a home office. Lively and creative, full of cafés, bars, street food and canal-side walks."
+  },
+  {
+    "title": "Modern 2-room flat in Kreuzberg",
+    "district": "Kreuzberg",
+    "price_eur": 1260,
+    "rooms": 2,
+    "size_m2": 66,
+    "description": "2-room flat, 66 m². Features: renovated kitchen, rooftop terrace, dishwasher included, wooden floors. Lively and creative, full of cafés, bars, street food and canal-side walks."
+  },
+  {
+    "title": "Charming 1-room flat in Treptow",
+    "district": "Treptow",
+    "price_eur": 460,
+    "rooms": 1,
+    "size_m2": 28,
+    "description": "1-room flat, 28 m². Features: high ceilings, bright south-facing, pet-friendly. Green and spacious, next to Treptower Park and the river Spree."
+  },
+  {
+    "title": "Cosy 3-room flat in Steglitz",
+    "district": "Steglitz",
+    "price_eur": 1340,
+    "rooms": 3,
+    "size_m2": 103,
+    "description": "3-room flat, 103 m². Features: bathtub, bright south-facing, pet-friendly. Calm and suburban, with a botanical garden and good shopping streets."
+  },
+  {
+    "title": "Modern 3-room flat in Prenzlauer Berg",
+    "district": "Prenzlauer Berg",
+    "price_eur": 1880,
+    "rooms": 3,
+    "size_m2": 81,
+    "description": "3-room flat, 81 m². Features: 5 min to U-Bahn, pet-friendly, view over the rooftops, room for a home office. Leafy and family-friendly, with old buildings, playgrounds and weekend markets."
+  },
+  {
+    "title": "Bright 4-room flat in Treptow",
+    "district": "Treptow",
+    "price_eur": 1880,
+    "rooms": 4,
+    "size_m2": 135,
+    "description": "4-room flat, 135 m². Features: bike storage in the basement, new windows with good sound insulation, quiet courtyard. Green and spacious, next to Treptower Park and the river Spree."
+  },
+  {
+    "title": "Modern 2-room flat in Kreuzberg",
+    "district": "Kreuzberg",
+    "price_eur": 1230,
+    "rooms": 2,
+    "size_m2": 65,
+    "description": "2-room flat, 65 m². Features: bright south-facing, view over the rooftops, high ceilings. Lively and creative, full of cafés, bars, street food and canal-side walks."
+  },
+  {
+    "title": "Spacious 1-room flat in Moabit",
+    "district": "Moabit",
+    "price_eur": 500,
+    "rooms": 1,
+    "size_m2": 28,
+    "description": "1-room flat, 28 m². Features: bathtub, near a park, furnished, close to cafés and bars. Quiet and central, surrounded by water, with a local market hall."
+  },
+  {
+    "title": "Charming 1-room flat in Wedding",
+    "district": "Wedding",
+    "price_eur": 520,
+    "rooms": 1,
+    "size_m2": 38,
+    "description": "1-room flat, 38 m². Features: bike storage in the basement, near a park, furnished. Affordable and changing fast, with parks, lakes and an authentic neighbourhood vibe."
+  },
+  {
+    "title": "Bright 3-room flat in Friedrichshain",
+    "district": "Friedrichshain",
+    "price_eur": 2040,
+    "rooms": 3,
+    "size_m2": 98,
+    "description": "3-room flat, 98 m². Features: view over the rooftops, bathtub, new windows with good sound insulation. Young and energetic, known for nightlife, street art and the East Side Gallery."
+  },
+  {
+    "title": "Cosy 3-room flat in Kreuzberg",
+    "district": "Kreuzberg",
+    "price_eur": 1910,
+    "rooms": 3,
+    "size_m2": 105,
+    "description": "3-room flat, 105 m². Features: room for a home office, dishwasher included, quiet courtyard. Lively and creative, full of cafés, bars, street food and canal-side walks."
+  },
+  {
+    "title": "Spacious 4-room flat in Treptow",
+    "district": "Treptow",
+    "price_eur": 2130,
+    "rooms": 4,
+    "size_m2": 137,
+    "description": "4-room flat, 137 m². Features: 5 min to U-Bahn, new windows with good sound insulation, fast fibre internet. Green and spacious, next to Treptower Park and the river Spree."
+  },
+  {
+    "title": "Stylish 4-room flat in Neukölln",
+    "district": "Neukölln",
+    "price_eur": 2630,
+    "rooms": 4,
+    "size_m2": 143,
+    "description": "4-room flat, 143 m². Features: furnished, bright south-facing, rooftop terrace. Diverse and trendy, with international food, Tempelhofer Feld and a young crowd."
+  },
+  {
+    "title": "Cosy 4-room flat in Moabit",
+    "district": "Moabit",
+    "price_eur": 1530,
+    "rooms": 4,
+    "size_m2": 102,
+    "description": "4-room flat, 102 m². Features: dishwasher included, room for a home office, balcony. Quiet and central, surrounded by water, with a local market hall."
+  },
+  {
+    "title": "Stylish 1-room flat in Treptow",
+    "district": "Treptow",
+    "price_eur": 540,
+    "rooms": 1,
+    "size_m2": 31,
+    "description": "1-room flat, 31 m². Features: bike storage in the basement, room for a home office, pet-friendly. Green and spacious, next to Treptower Park and the river Spree."
+  },
+  {
+    "title": "Cosy 2-room flat in Prenzlauer Berg",
+    "district": "Prenzlauer Berg",
+    "price_eur": 1430,
+    "rooms": 2,
+    "size_m2": 68,
+    "description": "2-room flat, 68 m². Features: new windows with good sound insulation, close to cafés and bars, wooden floors. Leafy and family-friendly, with old buildings, playgrounds and weekend markets."
+  },
+  {
+    "title": "Quiet 4-room flat in Kreuzberg",
+    "district": "Kreuzberg",
+    "price_eur": 2470,
+    "rooms": 4,
+    "size_m2": 113,
+    "description": "4-room flat, 113 m². Features: near a park, elevator, bright south-facing. Lively and creative, full of cafés, bars, street food and canal-side walks."
+  },
+  {
+    "title": "Cosy 2-room flat in Kreuzberg",
+    "district": "Kreuzberg",
+    "price_eur": 920,
+    "rooms": 2,
+    "size_m2": 54,
+    "description": "2-room flat, 54 m². Features: pet-friendly, high ceilings, room for a home office. Lively and creative, full of cafés, bars, street food and canal-side walks."
+  },
+  {
+    "title": "Stylish 1-room flat in Wedding",
+    "district": "Wedding",
+    "price_eur": 500,
+    "rooms": 1,
+    "size_m2": 30,
+    "description": "1-room flat, 30 m². Features: room for a home office, renovated kitchen, close to cafés and bars. Affordable and changing fast, with parks, lakes and an authentic neighbourhood vibe."
+  },
+  {
+    "title": "Modern 2-room flat in Wedding",
+    "district": "Wedding",
+    "price_eur": 930,
+    "rooms": 2,
+    "size_m2": 71,
+    "description": "2-room flat, 71 m². Features: bright south-facing, pet-friendly, high ceilings. Affordable and changing fast, with parks, lakes and an authentic neighbourhood vibe."
+  },
+  {
+    "title": "Stylish 4-room flat in Schöneberg",
+    "district": "Schöneberg",
+    "price_eur": 2230,
+    "rooms": 4,
+    "size_m2": 104,
+    "description": "4-room flat, 104 m². Features: bathtub, elevator, dishwasher included. Relaxed and residential, with good restaurants, markets and a strong community feel."
+  },
+  {
+    "title": "Sunny 2-room flat in Moabit",
+    "district": "Moabit",
+    "price_eur": 910,
+    "rooms": 2,
+    "size_m2": 51,
+    "description": "2-room flat, 51 m². Features: view over the rooftops, quiet courtyard, room for a home office. Quiet and central, surrounded by water, with a local market hall."
+  },
+  {
+    "title": "Modern 2-room flat in Kreuzberg",
+    "district": "Kreuzberg",
+    "price_eur": 950,
+    "rooms": 2,
+    "size_m2": 57,
+    "description": "2-room flat, 57 m². Features: pet-friendly, wooden floors, bathtub, room for a home office. Lively and creative, full of cafés, bars, street food and canal-side walks."
+  },
+  {
+    "title": "Cosy 2-room flat in Schöneberg",
+    "district": "Schöneberg",
+    "price_eur": 1050,
+    "rooms": 2,
+    "size_m2": 61,
+    "description": "2-room flat, 61 m². Features: balcony, high ceilings, near a park. Relaxed and residential, with good restaurants, markets and a strong community feel."
+  },
+  {
+    "title": "Spacious 2-room flat in Moabit",
+    "district": "Moabit",
+    "price_eur": 840,
+    "rooms": 2,
+    "size_m2": 56,
+    "description": "2-room flat, 56 m². Features: room for a home office, rooftop terrace, furnished. Quiet and central, surrounded by water, with a local market hall."
+  },
+  {
+    "title": "Spacious 3-room flat in Wedding",
+    "district": "Wedding",
+    "price_eur": 1530,
+    "rooms": 3,
+    "size_m2": 98,
+    "description": "3-room flat, 98 m². Features: fast fibre internet, furnished, near a park. Affordable and changing fast, with parks, lakes and an authentic neighbourhood vibe."
+  },
+  {
+    "title": "Modern 1-room flat in Neukölln",
+    "district": "Neukölln",
+    "price_eur": 540,
+    "rooms": 1,
+    "size_m2": 36,
+    "description": "1-room flat, 36 m². Features: view over the rooftops, wooden floors, bathtub, dishwasher included. Diverse and trendy, with international food, Tempelhofer Feld and a young crowd."
+  },
+  {
+    "title": "Spacious 4-room flat in Moabit",
+    "district": "Moabit",
+    "price_eur": 1530,
+    "rooms": 4,
+    "size_m2": 114,
+    "description": "4-room flat, 114 m². Features: pet-friendly, elevator, balcony, bathtub. Quiet and central, surrounded by water, with a local market hall."
+  },
+  {
+    "title": "Bright 3-room flat in Steglitz",
+    "district": "Steglitz",
+    "price_eur": 1210,
+    "rooms": 3,
+    "size_m2": 79,
+    "description": "3-room flat, 79 m². Features: near a park, quiet courtyard, 5 min to U-Bahn. Calm and suburban, with a botanical garden and good shopping streets."
+  },
+  {
+    "title": "Cosy 2-room flat in Charlottenburg",
+    "district": "Charlottenburg",
+    "price_eur": 1030,
+    "rooms": 2,
+    "size_m2": 54,
+    "description": "2-room flat, 54 m². Features: rooftop terrace, wooden floors, room for a home office. Elegant and calm, with wide boulevards, the palace gardens and classic shopping."
+  },
+  {
+    "title": "Bright 4-room flat in Charlottenburg",
+    "district": "Charlottenburg",
+    "price_eur": 3230,
+    "rooms": 4,
+    "size_m2": 141,
+    "description": "4-room flat, 141 m². Features: renovated kitchen, view over the rooftops, close to cafés and bars. Elegant and calm, with wide boulevards, the palace gardens and classic shopping."
+  },
+  {
+    "title": "Sunny 3-room flat in Friedrichshain",
+    "district": "Friedrichshain",
+    "price_eur": 1970,
+    "rooms": 3,
+    "size_m2": 98,
+    "description": "3-room flat, 98 m². Features: pet-friendly, renovated kitchen, near a park. Young and energetic, known for nightlife, street art and the East Side Gallery."
+  },
+  {
+    "title": "Sunny 4-room flat in Mitte",
+    "district": "Mitte",
+    "price_eur": 2380,
+    "rooms": 4,
+    "size_m2": 112,
+    "description": "4-room flat, 112 m². Features: room for a home office, view over the rooftops, balcony, wooden floors. Central and busy, with museums, offices and great transport links."
+  },
+  {
+    "title": "Modern 3-room flat in Charlottenburg",
+    "district": "Charlottenburg",
+    "price_eur": 1960,
+    "rooms": 3,
+    "size_m2": 106,
+    "description": "3-room flat, 106 m². Features: fast fibre internet, bathtub, balcony, near a park. Elegant and calm, with wide boulevards, the palace gardens and classic shopping."
+  },
+  {
+    "title": "Charming 3-room flat in Friedrichshain",
+    "district": "Friedrichshain",
+    "price_eur": 1380,
+    "rooms": 3,
+    "size_m2": 77,
+    "description": "3-room flat, 77 m². Features: close to cafés and bars, bike storage in the basement, near a park, bright south-facing. Young and energetic, known for nightlife, street art and the East Side Gallery."
+  },
+  {
+    "title": "Quiet 1-room flat in Neukölln",
+    "district": "Neukölln",
+    "price_eur": 520,
+    "rooms": 1,
+    "size_m2": 27,
+    "description": "1-room flat, 27 m². Features: rooftop terrace, close to cafés and bars, quiet courtyard. Diverse and trendy, with international food, Tempelhofer Feld and a young crowd."
+  },
+  {
+    "title": "Spacious 3-room flat in Pankow",
+    "district": "Pankow",
+    "price_eur": 1590,
+    "rooms": 3,
+    "size_m2": 91,
+    "description": "3-room flat, 91 m². Features: close to cafés and bars, bathtub, bright south-facing, furnished. Green and peaceful, with villas, parks and a small-town feeling."
+  },
+  {
+    "title": "Sunny 4-room flat in Prenzlauer Berg",
+    "district": "Prenzlauer Berg",
+    "price_eur": 2780,
+    "rooms": 4,
+    "size_m2": 125,
+    "description": "4-room flat, 125 m². Features: view over the rooftops, dishwasher included, furnished. Leafy and family-friendly, with old buildings, playgrounds and weekend markets."
+  },
+  {
+    "title": "Stylish 1-room flat in Moabit",
+    "district": "Moabit",
+    "price_eur": 440,
+    "rooms": 1,
+    "size_m2": 25,
+    "description": "1-room flat, 25 m². Features: high ceilings, view over the rooftops, dishwasher included, wooden floors. Quiet and central, surrounded by water, with a local market hall."
+  },
+  {
+    "title": "Charming 2-room flat in Treptow",
+    "district": "Treptow",
+    "price_eur": 990,
+    "rooms": 2,
+    "size_m2": 61,
+    "description": "2-room flat, 61 m². Features: quiet courtyard, room for a home office, furnished, dishwasher included. Green and spacious, next to Treptower Park and the river Spree."
+  },
+  {
+    "title": "Sunny 1-room flat in Friedrichshain",
+    "district": "Friedrichshain",
+    "price_eur": 590,
+    "rooms": 1,
+    "size_m2": 30,
+    "description": "1-room flat, 30 m². Features: high ceilings, close to cafés and bars, wooden floors. Young and energetic, known for nightlife, street art and the East Side Gallery."
+  },
+  {
+    "title": "Stylish 4-room flat in Wedding",
+    "district": "Wedding",
+    "price_eur": 1370,
+    "rooms": 4,
+    "size_m2": 111,
+    "description": "4-room flat, 111 m². Features: close to cafés and bars, room for a home office, renovated kitchen. Affordable and changing fast, with parks, lakes and an authentic neighbourhood vibe."
+  },
+  {
+    "title": "Sunny 2-room flat in Mitte",
+    "district": "Mitte",
+    "price_eur": 1220,
+    "rooms": 2,
+    "size_m2": 65,
+    "description": "2-room flat, 65 m². Features: bike storage in the basement, fast fibre internet, bathtub, high ceilings. Central and busy, with museums, offices and great transport links."
+  },
+  {
+    "title": "Charming 4-room flat in Moabit",
+    "district": "Moabit",
+    "price_eur": 2170,
+    "rooms": 4,
+    "size_m2": 138,
+    "description": "4-room flat, 138 m². Features: room for a home office, pet-friendly, bike storage in the basement, new windows with good sound insulation. Quiet and central, surrounded by water, with a local market hall."
+  },
+  {
+    "title": "Charming 4-room flat in Neukölln",
+    "district": "Neukölln",
+    "price_eur": 1580,
+    "rooms": 4,
+    "size_m2": 101,
+    "description": "4-room flat, 101 m². Features: fast fibre internet, quiet courtyard, 5 min to U-Bahn, view over the rooftops. Diverse and trendy, with international food, Tempelhofer Feld and a young crowd."
+  },
+  {
+    "title": "Sunny 2-room flat in Schöneberg",
+    "district": "Schöneberg",
+    "price_eur": 1070,
+    "rooms": 2,
+    "size_m2": 60,
+    "description": "2-room flat, 60 m². Features: close to cafés and bars, elevator, wooden floors, view over the rooftops. Relaxed and residential, with good restaurants, markets and a strong community feel."
+  },
+  {
+    "title": "Sunny 1-room flat in Pankow",
+    "district": "Pankow",
+    "price_eur": 530,
+    "rooms": 1,
+    "size_m2": 36,
+    "description": "1-room flat, 36 m². Features: rooftop terrace, furnished, bright south-facing. Green and peaceful, with villas, parks and a small-town feeling."
+  },
+  {
+    "title": "Spacious 2-room flat in Moabit",
+    "district": "Moabit",
+    "price_eur": 900,
+    "rooms": 2,
+    "size_m2": 57,
+    "description": "2-room flat, 57 m². Features: bathtub, bright south-facing, renovated kitchen, high ceilings. Quiet and central, surrounded by water, with a local market hall."
+  },
+  {
+    "title": "Spacious 1-room flat in Pankow",
+    "district": "Pankow",
+    "price_eur": 570,
+    "rooms": 1,
+    "size_m2": 35,
+    "description": "1-room flat, 35 m². Features: close to cafés and bars, 5 min to U-Bahn, high ceilings. Green and peaceful, with villas, parks and a small-town feeling."
+  },
+  {
+    "title": "Stylish 3-room flat in Mitte",
+    "district": "Mitte",
+    "price_eur": 1680,
+    "rooms": 3,
+    "size_m2": 83,
+    "description": "3-room flat, 83 m². Features: pet-friendly, close to cafés and bars, view over the rooftops, quiet courtyard. Central and busy, with museums, offices and great transport links."
+  },
+  {
+    "title": "Bright 1-room flat in Mitte",
+    "district": "Mitte",
+    "price_eur": 750,
+    "rooms": 1,
+    "size_m2": 33,
+    "description": "1-room flat, 33 m². Features: balcony, room for a home office, wooden floors. Central and busy, with museums, offices and great transport links."
+  },
+  {
+    "title": "Spacious 2-room flat in Pankow",
+    "district": "Pankow",
+    "price_eur": 730,
+    "rooms": 2,
+    "size_m2": 55,
+    "description": "2-room flat, 55 m². Features: high ceilings, pet-friendly, rooftop terrace. Green and peaceful, with villas, parks and a small-town feeling."
+  },
+  {
+    "title": "Sunny 1-room flat in Pankow",
+    "district": "Pankow",
+    "price_eur": 420,
+    "rooms": 1,
+    "size_m2": 29,
+    "description": "1-room flat, 29 m². Features: furnished, dishwasher included, bright south-facing. Green and peaceful, with villas, parks and a small-town feeling."
+  },
+  {
+    "title": "Quiet 2-room flat in Treptow",
+    "district": "Treptow",
+    "price_eur": 850,
+    "rooms": 2,
+    "size_m2": 53,
+    "description": "2-room flat, 53 m². Features: furnished, near a park, elevator. Green and spacious, next to Treptower Park and the river Spree."
+  },
+  {
+    "title": "Sunny 4-room flat in Moabit",
+    "district": "Moabit",
+    "price_eur": 2040,
+    "rooms": 4,
+    "size_m2": 122,
+    "description": "4-room flat, 122 m². Features: close to cafés and bars, new windows with good sound insulation, near a park. Quiet and central, surrounded by water, with a local market hall."
+  },
+  {
+    "title": "Sunny 4-room flat in Charlottenburg",
+    "district": "Charlottenburg",
+    "price_eur": 2760,
+    "rooms": 4,
+    "size_m2": 128,
+    "description": "4-room flat, 128 m². Features: view over the rooftops, fast fibre internet, new windows with good sound insulation, high ceilings. Elegant and calm, with wide boulevards, the palace gardens and classic shopping."
+  },
+  {
+    "title": "Quiet 3-room flat in Treptow",
+    "district": "Treptow",
+    "price_eur": 1450,
+    "rooms": 3,
+    "size_m2": 82,
+    "description": "3-room flat, 82 m². Features: high ceilings, room for a home office, view over the rooftops, bright south-facing. Green and spacious, next to Treptower Park and the river Spree."
+  },
+  {
+    "title": "Charming 4-room flat in Mitte",
+    "district": "Mitte",
+    "price_eur": 2540,
+    "rooms": 4,
+    "size_m2": 131,
+    "description": "4-room flat, 131 m². Features: bathtub, pet-friendly, dishwasher included, balcony. Central and busy, with museums, offices and great transport links."
+  },
+  {
+    "title": "Modern 2-room flat in Kreuzberg",
+    "district": "Kreuzberg",
+    "price_eur": 1360,
+    "rooms": 2,
+    "size_m2": 64,
+    "description": "2-room flat, 64 m². Features: new windows with good sound insulation, high ceilings, balcony, quiet courtyard. Lively and creative, full of cafés, bars, street food and canal-side walks."
+  },
+  {
+    "title": "Quiet 4-room flat in Prenzlauer Berg",
+    "district": "Prenzlauer Berg",
+    "price_eur": 2650,
+    "rooms": 4,
+    "size_m2": 126,
+    "description": "4-room flat, 126 m². Features: fast fibre internet, bike storage in the basement, rooftop terrace, close to cafés and bars. Leafy and family-friendly, with old buildings, playgrounds and weekend markets."
+  },
+  {
+    "title": "Spacious 4-room flat in Charlottenburg",
+    "district": "Charlottenburg",
+    "price_eur": 1880,
+    "rooms": 4,
+    "size_m2": 108,
+    "description": "4-room flat, 108 m². Features: bathtub, near a park, fast fibre internet. Elegant and calm, with wide boulevards, the palace gardens and classic shopping."
+  },
+  {
+    "title": "Quiet 2-room flat in Prenzlauer Berg",
+    "district": "Prenzlauer Berg",
+    "price_eur": 1330,
+    "rooms": 2,
+    "size_m2": 63,
+    "description": "2-room flat, 63 m². Features: near a park, wooden floors, furnished, room for a home office. Leafy and family-friendly, with old buildings, playgrounds and weekend markets."
+  },
+  {
+    "title": "Stylish 3-room flat in Friedrichshain",
+    "district": "Friedrichshain",
+    "price_eur": 1330,
+    "rooms": 3,
+    "size_m2": 76,
+    "description": "3-room flat, 76 m². Features: fast fibre internet, furnished, 5 min to U-Bahn. Young and energetic, known for nightlife, street art and the East Side Gallery."
+  },
+  {
+    "title": "Cosy 1-room flat in Kreuzberg",
+    "district": "Kreuzberg",
+    "price_eur": 570,
+    "rooms": 1,
+    "size_m2": 30,
+    "description": "1-room flat, 30 m². Features: elevator, pet-friendly, new windows with good sound insulation. Lively and creative, full of cafés, bars, street food and canal-side walks."
+  },
+  {
+    "title": "Cosy 4-room flat in Kreuzberg",
+    "district": "Kreuzberg",
+    "price_eur": 2490,
+    "rooms": 4,
+    "size_m2": 120,
+    "description": "4-room flat, 120 m². Features: 5 min to U-Bahn, dishwasher included, furnished. Lively and creative, full of cafés, bars, street food and canal-side walks."
+  },
+  {
+    "title": "Stylish 1-room flat in Prenzlauer Berg",
+    "district": "Prenzlauer Berg",
+    "price_eur": 640,
+    "rooms": 1,
+    "size_m2": 30,
+    "description": "1-room flat, 30 m². Features: bike storage in the basement, bright south-facing, high ceilings. Leafy and family-friendly, with old buildings, playgrounds and weekend markets."
+  },
+  {
+    "title": "Cosy 4-room flat in Neukölln",
+    "district": "Neukölln",
+    "price_eur": 1980,
+    "rooms": 4,
+    "size_m2": 113,
+    "description": "4-room flat, 113 m². Features: wooden floors, view over the rooftops, pet-friendly. Diverse and trendy, with international food, Tempelhofer Feld and a young crowd."
+  },
+  {
+    "title": "Charming 2-room flat in Friedrichshain",
+    "district": "Friedrichshain",
+    "price_eur": 770,
+    "rooms": 2,
+    "size_m2": 49,
+    "description": "2-room flat, 49 m². Features: view over the rooftops, new windows with good sound insulation, furnished, elevator. Young and energetic, known for nightlife, street art and the East Side Gallery."
+  },
+  {
+    "title": "Charming 3-room flat in Neukölln",
+    "district": "Neukölln",
+    "price_eur": 1730,
+    "rooms": 3,
+    "size_m2": 96,
+    "description": "3-room flat, 96 m². Features: dishwasher included, wooden floors, close to cafés and bars, near a park. Diverse and trendy, with international food, Tempelhofer Feld and a young crowd."
+  },
+  {
+    "title": "Stylish 2-room flat in Steglitz",
+    "district": "Steglitz",
+    "price_eur": 870,
+    "rooms": 2,
+    "size_m2": 71,
+    "description": "2-room flat, 71 m². Features: furnished, dishwasher included, view over the rooftops. Calm and suburban, with a botanical garden and good shopping streets."
+  },
+  {
+    "title": "Quiet 4-room flat in Kreuzberg",
+    "district": "Kreuzberg",
+    "price_eur": 2910,
+    "rooms": 4,
+    "size_m2": 130,
+    "description": "4-room flat, 130 m². Features: high ceilings, quiet courtyard, elevator, close to cafés and bars. Lively and creative, full of cafés, bars, street food and canal-side walks."
+  },
+  {
+    "title": "Spacious 3-room flat in Pankow",
+    "district": "Pankow",
+    "price_eur": 1190,
+    "rooms": 3,
+    "size_m2": 73,
+    "description": "3-room flat, 73 m². Features: pet-friendly, dishwasher included, elevator. Green and peaceful, with villas, parks and a small-town feeling."
+  },
+  {
+    "title": "Quiet 4-room flat in Wedding",
+    "district": "Wedding",
+    "price_eur": 2030,
+    "rooms": 4,
+    "size_m2": 133,
+    "description": "4-room flat, 133 m². Features: quiet courtyard, new windows with good sound insulation, rooftop terrace, close to cafés and bars. Affordable and changing fast, with parks, lakes and an authentic neighbourhood vibe."
+  },
+  {
+    "title": "Cosy 1-room flat in Charlottenburg",
+    "district": "Charlottenburg",
+    "price_eur": 680,
+    "rooms": 1,
+    "size_m2": 32,
+    "description": "1-room flat, 32 m². Features: bright south-facing, fast fibre internet, elevator, high ceilings. Elegant and calm, with wide boulevards, the palace gardens and classic shopping."
+  },
+  {
+    "title": "Bright 3-room flat in Charlottenburg",
+    "district": "Charlottenburg",
+    "price_eur": 1720,
+    "rooms": 3,
+    "size_m2": 89,
+    "description": "3-room flat, 89 m². Features: fast fibre internet, high ceilings, close to cafés and bars. Elegant and calm, with wide boulevards, the palace gardens and classic shopping."
+  },
+  {
+    "title": "Spacious 3-room flat in Prenzlauer Berg",
+    "district": "Prenzlauer Berg",
+    "price_eur": 1890,
+    "rooms": 3,
+    "size_m2": 94,
+    "description": "3-room flat, 94 m². Features: wooden floors, pet-friendly, fast fibre internet. Leafy and family-friendly, with old buildings, playgrounds and weekend markets."
+  },
+  {
+    "title": "Bright 4-room flat in Neukölln",
+    "district": "Neukölln",
+    "price_eur": 1920,
+    "rooms": 4,
+    "size_m2": 135,
+    "description": "4-room flat, 135 m². Features: renovated kitchen, furnished, fast fibre internet. Diverse and trendy, with international food, Tempelhofer Feld and a young crowd."
+  },
+  {
+    "title": "Modern 4-room flat in Moabit",
+    "district": "Moabit",
+    "price_eur": 1980,
+    "rooms": 4,
+    "size_m2": 109,
+    "description": "4-room flat, 109 m². Features: near a park, 5 min to U-Bahn, new windows with good sound insulation, furnished. Quiet and central, surrounded by water, with a local market hall."
+  },
+  {
+    "title": "Modern 4-room flat in Schöneberg",
+    "district": "Schöneberg",
+    "price_eur": 2570,
+    "rooms": 4,
+    "size_m2": 137,
+    "description": "4-room flat, 137 m². Features: wooden floors, bike storage in the basement, 5 min to U-Bahn, quiet courtyard. Relaxed and residential, with good restaurants, markets and a strong community feel."
+  },
+  {
+    "title": "Stylish 3-room flat in Schöneberg",
+    "district": "Schöneberg",
+    "price_eur": 2110,
+    "rooms": 3,
+    "size_m2": 103,
+    "description": "3-room flat, 103 m². Features: furnished, dishwasher included, new windows with good sound insulation, 5 min to U-Bahn. Relaxed and residential, with good restaurants, markets and a strong community feel."
+  },
+  {
+    "title": "Charming 4-room flat in Moabit",
+    "district": "Moabit",
+    "price_eur": 1840,
+    "rooms": 4,
+    "size_m2": 114,
+    "description": "4-room flat, 114 m². Features: bathtub, wooden floors, room for a home office, bright south-facing. Quiet and central, surrounded by water, with a local market hall."
+  },
+  {
+    "title": "Spacious 1-room flat in Schöneberg",
+    "district": "Schöneberg",
+    "price_eur": 590,
+    "rooms": 1,
+    "size_m2": 28,
+    "description": "1-room flat, 28 m². Features: bright south-facing, 5 min to U-Bahn, new windows with good sound insulation, elevator. Relaxed and residential, with good restaurants, markets and a strong community feel."
+  },
+  {
+    "title": "Cosy 3-room flat in Moabit",
+    "district": "Moabit",
+    "price_eur": 1630,
+    "rooms": 3,
+    "size_m2": 105,
+    "description": "3-room flat, 105 m². Features: balcony, 5 min to U-Bahn, close to cafés and bars, dishwasher included. Quiet and central, surrounded by water, with a local market hall."
+  },
+  {
+    "title": "Bright 3-room flat in Wedding",
+    "district": "Wedding",
+    "price_eur": 1360,
+    "rooms": 3,
+    "size_m2": 87,
+    "description": "3-room flat, 87 m². Features: fast fibre internet, bright south-facing, bathtub, new windows with good sound insulation. Affordable and changing fast, with parks, lakes and an authentic neighbourhood vibe."
+  },
+  {
+    "title": "Cosy 1-room flat in Pankow",
+    "district": "Pankow",
+    "price_eur": 410,
+    "rooms": 1,
+    "size_m2": 29,
+    "description": "1-room flat, 29 m². Features: quiet courtyard, close to cafés and bars, near a park. Green and peaceful, with villas, parks and a small-town feeling."
+  },
+  {
+    "title": "Sunny 2-room flat in Wedding",
+    "district": "Wedding",
+    "price_eur": 850,
+    "rooms": 2,
+    "size_m2": 68,
+    "description": "2-room flat, 68 m². Features: furnished, rooftop terrace, dishwasher included. Affordable and changing fast, with parks, lakes and an authentic neighbourhood vibe."
+  },
+  {
+    "title": "Charming 2-room flat in Friedrichshain",
+    "district": "Friedrichshain",
+    "price_eur": 1270,
+    "rooms": 2,
+    "size_m2": 61,
+    "description": "2-room flat, 61 m². Features: renovated kitchen, quiet courtyard, bright south-facing. Young and energetic, known for nightlife, street art and the East Side Gallery."
+  },
+  {
+    "title": "Spacious 2-room flat in Wedding",
+    "district": "Wedding",
+    "price_eur": 820,
+    "rooms": 2,
+    "size_m2": 56,
+    "description": "2-room flat, 56 m². Features: high ceilings, furnished, fast fibre internet. Affordable and changing fast, with parks, lakes and an authentic neighbourhood vibe."
+  },
+  {
+    "title": "Sunny 4-room flat in Kreuzberg",
+    "district": "Kreuzberg",
+    "price_eur": 2590,
+    "rooms": 4,
+    "size_m2": 143,
+    "description": "4-room flat, 143 m². Features: pet-friendly, high ceilings, furnished, wooden floors. Lively and creative, full of cafés, bars, street food and canal-side walks."
+  },
+  {
+    "title": "Bright 1-room flat in Wedding",
+    "district": "Wedding",
+    "price_eur": 430,
+    "rooms": 1,
+    "size_m2": 28,
+    "description": "1-room flat, 28 m². Features: balcony, bright south-facing, pet-friendly, view over the rooftops. Affordable and changing fast, with parks, lakes and an authentic neighbourhood vibe."
+  },
+  {
+    "title": "Charming 4-room flat in Pankow",
+    "district": "Pankow",
+    "price_eur": 2300,
+    "rooms": 4,
+    "size_m2": 137,
+    "description": "4-room flat, 137 m². Features: view over the rooftops, rooftop terrace, room for a home office. Green and peaceful, with villas, parks and a small-town feeling."
+  },
+  {
+    "title": "Stylish 3-room flat in Pankow",
+    "district": "Pankow",
+    "price_eur": 1590,
+    "rooms": 3,
+    "size_m2": 98,
+    "description": "3-room flat, 98 m². Features: near a park, elevator, furnished. Green and peaceful, with villas, parks and a small-town feeling."
+  },
+  {
+    "title": "Modern 3-room flat in Mitte",
+    "district": "Mitte",
+    "price_eur": 1860,
+    "rooms": 3,
+    "size_m2": 93,
+    "description": "3-room flat, 93 m². Features: renovated kitchen, wooden floors, 5 min to U-Bahn, rooftop terrace. Central and busy, with museums, offices and great transport links."
+  },
+  {
+    "title": "Spacious 3-room flat in Friedrichshain",
+    "district": "Friedrichshain",
+    "price_eur": 2350,
+    "rooms": 3,
+    "size_m2": 107,
+    "description": "3-room flat, 107 m². Features: bathtub, near a park, high ceilings, quiet courtyard. Young and energetic, known for nightlife, street art and the East Side Gallery."
+  },
+  {
+    "title": "Stylish 4-room flat in Prenzlauer Berg",
+    "district": "Prenzlauer Berg",
+    "price_eur": 2780,
+    "rooms": 4,
+    "size_m2": 142,
+    "description": "4-room flat, 142 m². Features: balcony, pet-friendly, fast fibre internet, near a park. Leafy and family-friendly, with old buildings, playgrounds and weekend markets."
+  },
+  {
+    "title": "Quiet 3-room flat in Charlottenburg",
+    "district": "Charlottenburg",
+    "price_eur": 2210,
+    "rooms": 3,
+    "size_m2": 96,
+    "description": "3-room flat, 96 m². Features: room for a home office, new windows with good sound insulation, balcony. Elegant and calm, with wide boulevards, the palace gardens and classic shopping."
+  },
+  {
+    "title": "Bright 2-room flat in Pankow",
+    "district": "Pankow",
+    "price_eur": 970,
+    "rooms": 2,
+    "size_m2": 64,
+    "description": "2-room flat, 64 m². Features: close to cafés and bars, near a park, 5 min to U-Bahn, elevator. Green and peaceful, with villas, parks and a small-town feeling."
+  },
+  {
+    "title": "Spacious 4-room flat in Neukölln",
+    "district": "Neukölln",
+    "price_eur": 1750,
+    "rooms": 4,
+    "size_m2": 102,
+    "description": "4-room flat, 102 m². Features: high ceilings, rooftop terrace, fast fibre internet, close to cafés and bars. Diverse and trendy, with international food, Tempelhofer Feld and a young crowd."
+  },
+  {
+    "title": "Stylish 1-room flat in Schöneberg",
+    "district": "Schöneberg",
+    "price_eur": 720,
+    "rooms": 1,
+    "size_m2": 34,
+    "description": "1-room flat, 34 m². Features: elevator, rooftop terrace, wooden floors, high ceilings. Relaxed and residential, with good restaurants, markets and a strong community feel."
+  },
+  {
+    "title": "Cosy 3-room flat in Prenzlauer Berg",
+    "district": "Prenzlauer Berg",
+    "price_eur": 1660,
+    "rooms": 3,
+    "size_m2": 80,
+    "description": "3-room flat, 80 m². Features: elevator, bright south-facing, pet-friendly, wooden floors. Leafy and family-friendly, with old buildings, playgrounds and weekend markets."
+  },
+  {
+    "title": "Spacious 1-room flat in Wedding",
+    "district": "Wedding",
+    "price_eur": 510,
+    "rooms": 1,
+    "size_m2": 33,
+    "description": "1-room flat, 33 m². Features: elevator, bathtub, room for a home office. Affordable and changing fast, with parks, lakes and an authentic neighbourhood vibe."
+  },
+  {
+    "title": "Bright 2-room flat in Pankow",
+    "district": "Pankow",
+    "price_eur": 750,
+    "rooms": 2,
+    "size_m2": 54,
+    "description": "2-room flat, 54 m². Features: room for a home office, bathtub, 5 min to U-Bahn. Green and peaceful, with villas, parks and a small-town feeling."
+  },
+  {
+    "title": "Quiet 2-room flat in Neukölln",
+    "district": "Neukölln",
+    "price_eur": 1300,
+    "rooms": 2,
+    "size_m2": 70,
+    "description": "2-room flat, 70 m². Features: balcony, 5 min to U-Bahn, view over the rooftops. Diverse and trendy, with international food, Tempelhofer Feld and a young crowd."
+  },
+  {
+    "title": "Stylish 3-room flat in Prenzlauer Berg",
+    "district": "Prenzlauer Berg",
+    "price_eur": 1310,
+    "rooms": 3,
+    "size_m2": 73,
+    "description": "3-room flat, 73 m². Features: bike storage in the basement, near a park, quiet courtyard, new windows with good sound insulation. Leafy and family-friendly, with old buildings, playgrounds and weekend markets."
+  },
+  {
+    "title": "Sunny 1-room flat in Charlottenburg",
+    "district": "Charlottenburg",
+    "price_eur": 560,
+    "rooms": 1,
+    "size_m2": 27,
+    "description": "1-room flat, 27 m². Features: high ceilings, balcony, elevator, new windows with good sound insulation. Elegant and calm, with wide boulevards, the palace gardens and classic shopping."
+  },
+  {
+    "title": "Spacious 1-room flat in Schöneberg",
+    "district": "Schöneberg",
+    "price_eur": 540,
+    "rooms": 1,
+    "size_m2": 34,
+    "description": "1-room flat, 34 m². Features: bathtub, 5 min to U-Bahn, quiet courtyard. Relaxed and residential, with good restaurants, markets and a strong community feel."
+  },
+  {
+    "title": "Sunny 3-room flat in Neukölln",
+    "district": "Neukölln",
+    "price_eur": 1370,
+    "rooms": 3,
+    "size_m2": 87,
+    "description": "3-room flat, 87 m². Features: near a park, view over the rooftops, fast fibre internet, wooden floors. Diverse and trendy, with international food, Tempelhofer Feld and a young crowd."
+  },
+  {
+    "title": "Modern 2-room flat in Wedding",
+    "district": "Wedding",
+    "price_eur": 890,
+    "rooms": 2,
+    "size_m2": 62,
+    "description": "2-room flat, 62 m². Features: bathtub, close to cafés and bars, view over the rooftops. Affordable and changing fast, with parks, lakes and an authentic neighbourhood vibe."
+  },
+  {
+    "title": "Quiet 2-room flat in Charlottenburg",
+    "district": "Charlottenburg",
+    "price_eur": 1080,
+    "rooms": 2,
+    "size_m2": 63,
+    "description": "2-room flat, 63 m². Features: quiet courtyard, close to cafés and bars, near a park. Elegant and calm, with wide boulevards, the palace gardens and classic shopping."
+  },
+  {
+    "title": "Bright 1-room flat in Friedrichshain",
+    "district": "Friedrichshain",
+    "price_eur": 550,
+    "rooms": 1,
+    "size_m2": 31,
+    "description": "1-room flat, 31 m². Features: close to cafés and bars, rooftop terrace, view over the rooftops. Young and energetic, known for nightlife, street art and the East Side Gallery."
+  },
+  {
+    "title": "Cosy 3-room flat in Neukölln",
+    "district": "Neukölln",
+    "price_eur": 1310,
+    "rooms": 3,
+    "size_m2": 86,
+    "description": "3-room flat, 86 m². Features: room for a home office, near a park, rooftop terrace, fast fibre internet. Diverse and trendy, with international food, Tempelhofer Feld and a young crowd."
+  },
+  {
+    "title": "Spacious 2-room flat in Neukölln",
+    "district": "Neukölln",
+    "price_eur": 1380,
+    "rooms": 2,
+    "size_m2": 70,
+    "description": "2-room flat, 70 m². Features: view over the rooftops, pet-friendly, balcony. Diverse and trendy, with international food, Tempelhofer Feld and a young crowd."
+  },
+  {
+    "title": "Spacious 3-room flat in Neukölln",
+    "district": "Neukölln",
+    "price_eur": 1520,
+    "rooms": 3,
+    "size_m2": 101,
+    "description": "3-room flat, 101 m². Features: dishwasher included, bright south-facing, quiet courtyard. Diverse and trendy, with international food, Tempelhofer Feld and a young crowd."
+  },
+  {
+    "title": "Quiet 1-room flat in Treptow",
+    "district": "Treptow",
+    "price_eur": 380,
+    "rooms": 1,
+    "size_m2": 26,
+    "description": "1-room flat, 26 m². Features: bathtub, renovated kitchen, rooftop terrace, furnished. Green and spacious, next to Treptower Park and the river Spree."
+  },
+  {
+    "title": "Sunny 1-room flat in Pankow",
+    "district": "Pankow",
+    "price_eur": 500,
+    "rooms": 1,
+    "size_m2": 30,
+    "description": "1-room flat, 30 m². Features: quiet courtyard, pet-friendly, high ceilings. Green and peaceful, with villas, parks and a small-town feeling."
+  },
+  {
+    "title": "Modern 4-room flat in Wedding",
+    "district": "Wedding",
+    "price_eur": 1700,
+    "rooms": 4,
+    "size_m2": 114,
+    "description": "4-room flat, 114 m². Features: close to cafés and bars, near a park, furnished, new windows with good sound insulation. Affordable and changing fast, with parks, lakes and an authentic neighbourhood vibe."
+  },
+  {
+    "title": "Quiet 2-room flat in Mitte",
+    "district": "Mitte",
+    "price_eur": 1060,
+    "rooms": 2,
+    "size_m2": 59,
+    "description": "2-room flat, 59 m². Features: wooden floors, 5 min to U-Bahn, pet-friendly, furnished. Central and busy, with museums, offices and great transport links."
+  },
+  {
+    "title": "Cosy 1-room flat in Kreuzberg",
+    "district": "Kreuzberg",
+    "price_eur": 490,
+    "rooms": 1,
+    "size_m2": 29,
+    "description": "1-room flat, 29 m². Features: bike storage in the basement, fast fibre internet, rooftop terrace. Lively and creative, full of cafés, bars, street food and canal-side walks."
+  },
+  {
+    "title": "Modern 1-room flat in Schöneberg",
+    "district": "Schöneberg",
+    "price_eur": 460,
+    "rooms": 1,
+    "size_m2": 29,
+    "description": "1-room flat, 29 m². Features: dishwasher included, close to cafés and bars, bright south-facing, view over the rooftops. Relaxed and residential, with good restaurants, markets and a strong community feel."
+  },
+  {
+    "title": "Charming 4-room flat in Kreuzberg",
+    "district": "Kreuzberg",
+    "price_eur": 2130,
+    "rooms": 4,
+    "size_m2": 99,
+    "description": "4-room flat, 99 m². Features: rooftop terrace, quiet courtyard, close to cafés and bars, near a park. Lively and creative, full of cafés, bars, street food and canal-side walks."
+  },
+  {
+    "title": "Cosy 4-room flat in Schöneberg",
+    "district": "Schöneberg",
+    "price_eur": 2070,
+    "rooms": 4,
+    "size_m2": 120,
+    "description": "4-room flat, 120 m². Features: room for a home office, bathtub, renovated kitchen, quiet courtyard. Relaxed and residential, with good restaurants, markets and a strong community feel."
+  },
+  {
+    "title": "Modern 2-room flat in Moabit",
+    "district": "Moabit",
+    "price_eur": 1150,
+    "rooms": 2,
+    "size_m2": 67,
+    "description": "2-room flat, 67 m². Features: room for a home office, near a park, 5 min to U-Bahn. Quiet and central, surrounded by water, with a local market hall."
+  },
+  {
+    "title": "Quiet 2-room flat in Prenzlauer Berg",
+    "district": "Prenzlauer Berg",
+    "price_eur": 1400,
+    "rooms": 2,
+    "size_m2": 65,
+    "description": "2-room flat, 65 m². Features: new windows with good sound insulation, high ceilings, dishwasher included. Leafy and family-friendly, with old buildings, playgrounds and weekend markets."
+  },
+  {
+    "title": "Cosy 3-room flat in Steglitz",
+    "district": "Steglitz",
+    "price_eur": 1060,
+    "rooms": 3,
+    "size_m2": 75,
+    "description": "3-room flat, 75 m². Features: pet-friendly, dishwasher included, elevator, rooftop terrace. Calm and suburban, with a botanical garden and good shopping streets."
+  },
+  {
+    "title": "Stylish 4-room flat in Neukölln",
+    "district": "Neukölln",
+    "price_eur": 2150,
+    "rooms": 4,
+    "size_m2": 114,
+    "description": "4-room flat, 114 m². Features: quiet courtyard, bike storage in the basement, bright south-facing. Diverse and trendy, with international food, Tempelhofer Feld and a young crowd."
+  },
+  {
+    "title": "Bright 1-room flat in Pankow",
+    "district": "Pankow",
+    "price_eur": 530,
+    "rooms": 1,
+    "size_m2": 33,
+    "description": "1-room flat, 33 m². Features: view over the rooftops, new windows with good sound insulation, bike storage in the basement, 5 min to U-Bahn. Green and peaceful, with villas, parks and a small-town feeling."
+  },
+  {
+    "title": "Charming 1-room flat in Wedding",
+    "district": "Wedding",
+    "price_eur": 620,
+    "rooms": 1,
+    "size_m2": 36,
+    "description": "1-room flat, 36 m². Features: bike storage in the basement, renovated kitchen, elevator. Affordable and changing fast, with parks, lakes and an authentic neighbourhood vibe."
+  },
+  {
+    "title": "Quiet 4-room flat in Treptow",
+    "district": "Treptow",
+    "price_eur": 2230,
+    "rooms": 4,
+    "size_m2": 140,
+    "description": "4-room flat, 140 m². Features: rooftop terrace, furnished, bright south-facing, close to cafés and bars. Green and spacious, next to Treptower Park and the river Spree."
+  },
+  {
+    "title": "Modern 1-room flat in Steglitz",
+    "district": "Steglitz",
+    "price_eur": 420,
+    "rooms": 1,
+    "size_m2": 34,
+    "description": "1-room flat, 34 m². Features: fast fibre internet, bright south-facing, furnished. Calm and suburban, with a botanical garden and good shopping streets."
+  },
+  {
+    "title": "Modern 2-room flat in Treptow",
+    "district": "Treptow",
+    "price_eur": 770,
+    "rooms": 2,
+    "size_m2": 57,
+    "description": "2-room flat, 57 m². Features: furnished, bright south-facing, 5 min to U-Bahn, quiet courtyard. Green and spacious, next to Treptower Park and the river Spree."
+  },
+  {
+    "title": "Bright 4-room flat in Moabit",
+    "district": "Moabit",
+    "price_eur": 1720,
+    "rooms": 4,
+    "size_m2": 124,
+    "description": "4-room flat, 124 m². Features: close to cafés and bars, bike storage in the basement, rooftop terrace. Quiet and central, surrounded by water, with a local market hall."
+  },
+  {
+    "title": "Cosy 3-room flat in Charlottenburg",
+    "district": "Charlottenburg",
+    "price_eur": 1800,
+    "rooms": 3,
+    "size_m2": 78,
+    "description": "3-room flat, 78 m². Features: wooden floors, room for a home office, 5 min to U-Bahn, fast fibre internet. Elegant and calm, with wide boulevards, the palace gardens and classic shopping."
+  },
+  {
+    "title": "Spacious 1-room flat in Neukölln",
+    "district": "Neukölln",
+    "price_eur": 550,
+    "rooms": 1,
+    "size_m2": 30,
+    "description": "1-room flat, 30 m². Features: bathtub, 5 min to U-Bahn, bright south-facing. Diverse and trendy, with international food, Tempelhofer Feld and a young crowd."
+  },
+  {
+    "title": "Quiet 2-room flat in Friedrichshain",
+    "district": "Friedrichshain",
+    "price_eur": 1450,
+    "rooms": 2,
+    "size_m2": 69,
+    "description": "2-room flat, 69 m². Features: high ceilings, elevator, close to cafés and bars. Young and energetic, known for nightlife, street art and the East Side Gallery."
+  },
+  {
+    "title": "Stylish 2-room flat in Steglitz",
+    "district": "Steglitz",
+    "price_eur": 1090,
+    "rooms": 2,
+    "size_m2": 70,
+    "description": "2-room flat, 70 m². Features: room for a home office, fast fibre internet, view over the rooftops, furnished. Calm and suburban, with a botanical garden and good shopping streets."
+  },
+  {
+    "title": "Spacious 3-room flat in Prenzlauer Berg",
+    "district": "Prenzlauer Berg",
+    "price_eur": 1930,
+    "rooms": 3,
+    "size_m2": 96,
+    "description": "3-room flat, 96 m². Features: bright south-facing, bike storage in the basement, dishwasher included, close to cafés and bars. Leafy and family-friendly, with old buildings, playgrounds and weekend markets."
+  },
+  {
+    "title": "Modern 2-room flat in Prenzlauer Berg",
+    "district": "Prenzlauer Berg",
+    "price_eur": 1280,
+    "rooms": 2,
+    "size_m2": 63,
+    "description": "2-room flat, 63 m². Features: fast fibre internet, near a park, bike storage in the basement, dishwasher included. Leafy and family-friendly, with old buildings, playgrounds and weekend markets."
+  },
+  {
+    "title": "Bright 2-room flat in Kreuzberg",
+    "district": "Kreuzberg",
+    "price_eur": 1030,
+    "rooms": 2,
+    "size_m2": 60,
+    "description": "2-room flat, 60 m². Features: quiet courtyard, room for a home office, high ceilings, rooftop terrace. Lively and creative, full of cafés, bars, street food and canal-side walks."
+  },
+  {
+    "title": "Quiet 1-room flat in Schöneberg",
+    "district": "Schöneberg",
+    "price_eur": 500,
+    "rooms": 1,
+    "size_m2": 28,
+    "description": "1-room flat, 28 m². Features: rooftop terrace, room for a home office, balcony. Relaxed and residential, with good restaurants, markets and a strong community feel."
+  },
+  {
+    "title": "Cosy 3-room flat in Kreuzberg",
+    "district": "Kreuzberg",
+    "price_eur": 1720,
+    "rooms": 3,
+    "size_m2": 95,
+    "description": "3-room flat, 95 m². Features: 5 min to U-Bahn, new windows with good sound insulation, high ceilings, balcony. Lively and creative, full of cafés, bars, street food and canal-side walks."
+  },
+  {
+    "title": "Cosy 3-room flat in Mitte",
+    "district": "Mitte",
+    "price_eur": 1930,
+    "rooms": 3,
+    "size_m2": 78,
+    "description": "3-room flat, 78 m². Features: near a park, furnished, room for a home office, dishwasher included. Central and busy, with museums, offices and great transport links."
+  },
+  {
+    "title": "Charming 2-room flat in Mitte",
+    "district": "Mitte",
+    "price_eur": 1290,
+    "rooms": 2,
+    "size_m2": 61,
+    "description": "2-room flat, 61 m². Features: new windows with good sound insulation, fast fibre internet, balcony. Central and busy, with museums, offices and great transport links."
+  },
+  {
+    "title": "Cosy 2-room flat in Treptow",
+    "district": "Treptow",
+    "price_eur": 740,
+    "rooms": 2,
+    "size_m2": 51,
+    "description": "2-room flat, 51 m². Features: renovated kitchen, quiet courtyard, bike storage in the basement, rooftop terrace. Green and spacious, next to Treptower Park and the river Spree."
+  },
+  {
+    "title": "Quiet 1-room flat in Moabit",
+    "district": "Moabit",
+    "price_eur": 480,
+    "rooms": 1,
+    "size_m2": 29,
+    "description": "1-room flat, 29 m². Features: pet-friendly, balcony, rooftop terrace, quiet courtyard. Quiet and central, surrounded by water, with a local market hall."
+  },
+  {
+    "title": "Spacious 1-room flat in Prenzlauer Berg",
+    "district": "Prenzlauer Berg",
+    "price_eur": 680,
+    "rooms": 1,
+    "size_m2": 35,
+    "description": "1-room flat, 35 m². Features: rooftop terrace, fast fibre internet, bathtub. Leafy and family-friendly, with old buildings, playgrounds and weekend markets."
+  },
+  {
+    "title": "Modern 4-room flat in Steglitz",
+    "district": "Steglitz",
+    "price_eur": 1780,
+    "rooms": 4,
+    "size_m2": 139,
+    "description": "4-room flat, 139 m². Features: quiet courtyard, high ceilings, elevator. Calm and suburban, with a botanical garden and good shopping streets."
+  },
+  {
+    "title": "Modern 1-room flat in Prenzlauer Berg",
+    "district": "Prenzlauer Berg",
+    "price_eur": 710,
+    "rooms": 1,
+    "size_m2": 37,
+    "description": "1-room flat, 37 m². Features: bike storage in the basement, bright south-facing, fast fibre internet, new windows with good sound insulation. Leafy and family-friendly, with old buildings, playgrounds and weekend markets."
+  },
+  {
+    "title": "Sunny 2-room flat in Mitte",
+    "district": "Mitte",
+    "price_eur": 1070,
+    "rooms": 2,
+    "size_m2": 59,
+    "description": "2-room flat, 59 m². Features: pet-friendly, near a park, rooftop terrace, close to cafés and bars. Central and busy, with museums, offices and great transport links."
+  },
+  {
+    "title": "Cosy 4-room flat in Treptow",
+    "district": "Treptow",
+    "price_eur": 2410,
+    "rooms": 4,
+    "size_m2": 135,
+    "description": "4-room flat, 135 m². Features: new windows with good sound insulation, rooftop terrace, bike storage in the basement, pet-friendly. Green and spacious, next to Treptower Park and the river Spree."
+  },
+  {
+    "title": "Modern 4-room flat in Treptow",
+    "district": "Treptow",
+    "price_eur": 1770,
+    "rooms": 4,
+    "size_m2": 104,
+    "description": "4-room flat, 104 m². Features: bathtub, near a park, quiet courtyard, view over the rooftops. Green and spacious, next to Treptower Park and the river Spree."
+  },
+  {
+    "title": "Modern 4-room flat in Neukölln",
+    "district": "Neukölln",
+    "price_eur": 2220,
+    "rooms": 4,
+    "size_m2": 123,
+    "description": "4-room flat, 123 m². Features: high ceilings, elevator, rooftop terrace, close to cafés and bars. Diverse and trendy, with international food, Tempelhofer Feld and a young crowd."
+  },
+  {
+    "title": "Bright 1-room flat in Steglitz",
+    "district": "Steglitz",
+    "price_eur": 370,
+    "rooms": 1,
+    "size_m2": 27,
+    "description": "1-room flat, 27 m². Features: balcony, 5 min to U-Bahn, high ceilings. Calm and suburban, with a botanical garden and good shopping streets."
+  },
+  {
+    "title": "Quiet 1-room flat in Friedrichshain",
+    "district": "Friedrichshain",
+    "price_eur": 520,
+    "rooms": 1,
+    "size_m2": 29,
+    "description": "1-room flat, 29 m². Features: view over the rooftops, 5 min to U-Bahn, high ceilings. Young and energetic, known for nightlife, street art and the East Side Gallery."
+  },
+  {
+    "title": "Bright 4-room flat in Charlottenburg",
+    "district": "Charlottenburg",
+    "price_eur": 2640,
+    "rooms": 4,
+    "size_m2": 131,
+    "description": "4-room flat, 131 m². Features: bathtub, pet-friendly, room for a home office, near a park. Elegant and calm, with wide boulevards, the palace gardens and classic shopping."
+  },
+  {
+    "title": "Stylish 2-room flat in Treptow",
+    "district": "Treptow",
+    "price_eur": 930,
+    "rooms": 2,
+    "size_m2": 59,
+    "description": "2-room flat, 59 m². Features: pet-friendly, high ceilings, wooden floors, furnished. Green and spacious, next to Treptower Park and the river Spree."
+  },
+  {
+    "title": "Modern 1-room flat in Prenzlauer Berg",
+    "district": "Prenzlauer Berg",
+    "price_eur": 400,
+    "rooms": 1,
+    "size_m2": 22,
+    "description": "1-room flat, 22 m². Features: quiet courtyard, bathtub, rooftop terrace, view over the rooftops. Leafy and family-friendly, with old buildings, playgrounds and weekend markets."
+  },
+  {
+    "title": "Spacious 2-room flat in Neukölln",
+    "district": "Neukölln",
+    "price_eur": 1220,
+    "rooms": 2,
+    "size_m2": 69,
+    "description": "2-room flat, 69 m². Features: bike storage in the basement, room for a home office, near a park, wooden floors. Diverse and trendy, with international food, Tempelhofer Feld and a young crowd."
+  },
+  {
+    "title": "Modern 4-room flat in Prenzlauer Berg",
+    "district": "Prenzlauer Berg",
+    "price_eur": 2000,
+    "rooms": 4,
+    "size_m2": 102,
+    "description": "4-room flat, 102 m². Features: view over the rooftops, quiet courtyard, dishwasher included. Leafy and family-friendly, with old buildings, playgrounds and weekend markets."
+  },
+  {
+    "title": "Stylish 4-room flat in Schöneberg",
+    "district": "Schöneberg",
+    "price_eur": 2540,
+    "rooms": 4,
+    "size_m2": 124,
+    "description": "4-room flat, 124 m². Features: 5 min to U-Bahn, bathtub, quiet courtyard. Relaxed and residential, with good restaurants, markets and a strong community feel."
+  },
+  {
+    "title": "Bright 3-room flat in Wedding",
+    "district": "Wedding",
+    "price_eur": 1240,
+    "rooms": 3,
+    "size_m2": 82,
+    "description": "3-room flat, 82 m². Features: 5 min to U-Bahn, close to cafés and bars, bike storage in the basement. Affordable and changing fast, with parks, lakes and an authentic neighbourhood vibe."
+  },
+  {
+    "title": "Cosy 2-room flat in Kreuzberg",
+    "district": "Kreuzberg",
+    "price_eur": 1190,
+    "rooms": 2,
+    "size_m2": 53,
+    "description": "2-room flat, 53 m². Features: rooftop terrace, bike storage in the basement, furnished. Lively and creative, full of cafés, bars, street food and canal-side walks."
+  },
+  {
+    "title": "Spacious 2-room flat in Neukölln",
+    "district": "Neukölln",
+    "price_eur": 930,
+    "rooms": 2,
+    "size_m2": 63,
+    "description": "2-room flat, 63 m². Features: view over the rooftops, fast fibre internet, quiet courtyard, bike storage in the basement. Diverse and trendy, with international food, Tempelhofer Feld and a young crowd."
+  },
+  {
+    "title": "Bright 2-room flat in Pankow",
+    "district": "Pankow",
+    "price_eur": 960,
+    "rooms": 2,
+    "size_m2": 55,
+    "description": "2-room flat, 55 m². Features: dishwasher included, elevator, balcony, quiet courtyard. Green and peaceful, with villas, parks and a small-town feeling."
+  },
+  {
+    "title": "Modern 3-room flat in Steglitz",
+    "district": "Steglitz",
+    "price_eur": 1350,
+    "rooms": 3,
+    "size_m2": 97,
+    "description": "3-room flat, 97 m². Features: new windows with good sound insulation, fast fibre internet, furnished. Calm and suburban, with a botanical garden and good shopping streets."
+  },
+  {
+    "title": "Sunny 2-room flat in Wedding",
+    "district": "Wedding",
+    "price_eur": 940,
+    "rooms": 2,
+    "size_m2": 68,
+    "description": "2-room flat, 68 m². Features: elevator, renovated kitchen, high ceilings. Affordable and changing fast, with parks, lakes and an authentic neighbourhood vibe."
+  },
+  {
+    "title": "Cosy 4-room flat in Wedding",
+    "district": "Wedding",
+    "price_eur": 1520,
+    "rooms": 4,
+    "size_m2": 109,
+    "description": "4-room flat, 109 m². Features: rooftop terrace, bright south-facing, 5 min to U-Bahn, view over the rooftops. Affordable and changing fast, with parks, lakes and an authentic neighbourhood vibe."
+  },
+  {
+    "title": "Sunny 2-room flat in Charlottenburg",
+    "district": "Charlottenburg",
+    "price_eur": 1040,
+    "rooms": 2,
+    "size_m2": 57,
+    "description": "2-room flat, 57 m². Features: elevator, furnished, bright south-facing. Elegant and calm, with wide boulevards, the palace gardens and classic shopping."
+  },
+  {
+    "title": "Stylish 2-room flat in Prenzlauer Berg",
+    "district": "Prenzlauer Berg",
+    "price_eur": 1570,
+    "rooms": 2,
+    "size_m2": 71,
+    "description": "2-room flat, 71 m². Features: renovated kitchen, new windows with good sound insulation, bike storage in the basement. Leafy and family-friendly, with old buildings, playgrounds and weekend markets."
+  },
+  {
+    "title": "Bright 3-room flat in Wedding",
+    "district": "Wedding",
+    "price_eur": 1230,
+    "rooms": 3,
+    "size_m2": 86,
+    "description": "3-room flat, 86 m². Features: room for a home office, wooden floors, rooftop terrace, elevator. Affordable and changing fast, with parks, lakes and an authentic neighbourhood vibe."
+  },
+  {
+    "title": "Spacious 4-room flat in Neukölln",
+    "district": "Neukölln",
+    "price_eur": 2270,
+    "rooms": 4,
+    "size_m2": 127,
+    "description": "4-room flat, 127 m². Features: fast fibre internet, balcony, near a park, close to cafés and bars. Diverse and trendy, with international food, Tempelhofer Feld and a young crowd."
+  },
+  {
+    "title": "Cosy 3-room flat in Neukölln",
+    "district": "Neukölln",
+    "price_eur": 1580,
+    "rooms": 3,
+    "size_m2": 97,
+    "description": "3-room flat, 97 m². Features: rooftop terrace, fast fibre internet, furnished. Diverse and trendy, with international food, Tempelhofer Feld and a young crowd."
+  },
+  {
+    "title": "Quiet 4-room flat in Schöneberg",
+    "district": "Schöneberg",
+    "price_eur": 2760,
+    "rooms": 4,
+    "size_m2": 128,
+    "description": "4-room flat, 128 m². Features: 5 min to U-Bahn, near a park, bright south-facing. Relaxed and residential, with good restaurants, markets and a strong community feel."
+  },
+  {
+    "title": "Quiet 3-room flat in Charlottenburg",
+    "district": "Charlottenburg",
+    "price_eur": 1900,
+    "rooms": 3,
+    "size_m2": 95,
+    "description": "3-room flat, 95 m². Features: elevator, view over the rooftops, 5 min to U-Bahn. Elegant and calm, with wide boulevards, the palace gardens and classic shopping."
+  },
+  {
+    "title": "Stylish 4-room flat in Wedding",
+    "district": "Wedding",
+    "price_eur": 1430,
+    "rooms": 4,
+    "size_m2": 110,
+    "description": "4-room flat, 110 m². Features: renovated kitchen, bright south-facing, furnished, bathtub. Affordable and changing fast, with parks, lakes and an authentic neighbourhood vibe."
+  },
+  {
+    "title": "Bright 3-room flat in Treptow",
+    "district": "Treptow",
+    "price_eur": 1220,
+    "rooms": 3,
+    "size_m2": 84,
+    "description": "3-room flat, 84 m². Features: close to cafés and bars, dishwasher included, furnished. Green and spacious, next to Treptower Park and the river Spree."
+  },
+  {
+    "title": "Spacious 4-room flat in Pankow",
+    "district": "Pankow",
+    "price_eur": 2000,
+    "rooms": 4,
+    "size_m2": 112,
+    "description": "4-room flat, 112 m². Features: elevator, dishwasher included, new windows with good sound insulation. Green and peaceful, with villas, parks and a small-town feeling."
+  },
+  {
+    "title": "Quiet 4-room flat in Moabit",
+    "district": "Moabit",
+    "price_eur": 1440,
+    "rooms": 4,
+    "size_m2": 108,
+    "description": "4-room flat, 108 m². Features: wooden floors, balcony, high ceilings. Quiet and central, surrounded by water, with a local market hall."
+  },
+  {
+    "title": "Quiet 2-room flat in Schöneberg",
+    "district": "Schöneberg",
+    "price_eur": 1020,
+    "rooms": 2,
+    "size_m2": 55,
+    "description": "2-room flat, 55 m². Features: elevator, 5 min to U-Bahn, bike storage in the basement, wooden floors. Relaxed and residential, with good restaurants, markets and a strong community feel."
+  },
+  {
+    "title": "Charming 4-room flat in Steglitz",
+    "district": "Steglitz",
+    "price_eur": 1520,
+    "rooms": 4,
+    "size_m2": 119,
+    "description": "4-room flat, 119 m². Features: fast fibre internet, rooftop terrace, pet-friendly, new windows with good sound insulation. Calm and suburban, with a botanical garden and good shopping streets."
+  },
+  {
+    "title": "Stylish 3-room flat in Prenzlauer Berg",
+    "district": "Prenzlauer Berg",
+    "price_eur": 2120,
+    "rooms": 3,
+    "size_m2": 89,
+    "description": "3-room flat, 89 m². Features: furnished, wooden floors, new windows with good sound insulation, bathtub. Leafy and family-friendly, with old buildings, playgrounds and weekend markets."
+  },
+  {
+    "title": "Modern 3-room flat in Charlottenburg",
+    "district": "Charlottenburg",
+    "price_eur": 1700,
+    "rooms": 3,
+    "size_m2": 84,
+    "description": "3-room flat, 84 m². Features: rooftop terrace, 5 min to U-Bahn, furnished, elevator. Elegant and calm, with wide boulevards, the palace gardens and classic shopping."
+  },
+  {
+    "title": "Modern 1-room flat in Treptow",
+    "district": "Treptow",
+    "price_eur": 390,
+    "rooms": 1,
+    "size_m2": 28,
+    "description": "1-room flat, 28 m². Features: wooden floors, view over the rooftops, fast fibre internet, pet-friendly. Green and spacious, next to Treptower Park and the river Spree."
+  },
+  {
+    "title": "Sunny 1-room flat in Friedrichshain",
+    "district": "Friedrichshain",
+    "price_eur": 550,
+    "rooms": 1,
+    "size_m2": 32,
+    "description": "1-room flat, 32 m². Features: room for a home office, elevator, near a park. Young and energetic, known for nightlife, street art and the East Side Gallery."
+  },
+  {
+    "title": "Charming 4-room flat in Charlottenburg",
+    "district": "Charlottenburg",
+    "price_eur": 1780,
+    "rooms": 4,
+    "size_m2": 107,
+    "description": "4-room flat, 107 m². Features: close to cafés and bars, new windows with good sound insulation, dishwasher included. Elegant and calm, with wide boulevards, the palace gardens and classic shopping."
+  },
+  {
+    "title": "Sunny 3-room flat in Neukölln",
+    "district": "Neukölln",
+    "price_eur": 1460,
+    "rooms": 3,
+    "size_m2": 79,
+    "description": "3-room flat, 79 m². Features: fast fibre internet, elevator, renovated kitchen. Diverse and trendy, with international food, Tempelhofer Feld and a young crowd."
+  },
+  {
+    "title": "Quiet 1-room flat in Friedrichshain",
+    "district": "Friedrichshain",
+    "price_eur": 640,
+    "rooms": 1,
+    "size_m2": 34,
+    "description": "1-room flat, 34 m². Features: elevator, balcony, furnished, near a park. Young and energetic, known for nightlife, street art and the East Side Gallery."
+  },
+  {
+    "title": "Charming 4-room flat in Neukölln",
+    "district": "Neukölln",
+    "price_eur": 2360,
+    "rooms": 4,
+    "size_m2": 140,
+    "description": "4-room flat, 140 m². Features: bike storage in the basement, high ceilings, pet-friendly. Diverse and trendy, with international food, Tempelhofer Feld and a young crowd."
+  },
+  {
+    "title": "Charming 3-room flat in Kreuzberg",
+    "district": "Kreuzberg",
+    "price_eur": 1410,
+    "rooms": 3,
+    "size_m2": 79,
+    "description": "3-room flat, 79 m². Features: balcony, bathtub, furnished. Lively and creative, full of cafés, bars, street food and canal-side walks."
+  },
+  {
+    "title": "Quiet 4-room flat in Friedrichshain",
+    "district": "Friedrichshain",
+    "price_eur": 2170,
+    "rooms": 4,
+    "size_m2": 133,
+    "description": "4-room flat, 133 m². Features: renovated kitchen, 5 min to U-Bahn, new windows with good sound insulation. Young and energetic, known for nightlife, street art and the East Side Gallery."
+  },
+  {
+    "title": "Quiet 1-room flat in Prenzlauer Berg",
+    "district": "Prenzlauer Berg",
+    "price_eur": 560,
+    "rooms": 1,
+    "size_m2": 25,
+    "description": "1-room flat, 25 m². Features: furnished, dishwasher included, balcony, pet-friendly. Leafy and family-friendly, with old buildings, playgrounds and weekend markets."
+  },
+  {
+    "title": "Quiet 2-room flat in Treptow",
+    "district": "Treptow",
+    "price_eur": 670,
+    "rooms": 2,
+    "size_m2": 47,
+    "description": "2-room flat, 47 m². Features: bike storage in the basement, furnished, near a park, dishwasher included. Green and spacious, next to Treptower Park and the river Spree."
+  },
+  {
+    "title": "Charming 2-room flat in Pankow",
+    "district": "Pankow",
+    "price_eur": 690,
+    "rooms": 2,
+    "size_m2": 51,
+    "description": "2-room flat, 51 m². Features: close to cafés and bars, fast fibre internet, new windows with good sound insulation, wooden floors. Green and peaceful, with villas, parks and a small-town feeling."
+  },
+  {
+    "title": "Charming 1-room flat in Steglitz",
+    "district": "Steglitz",
+    "price_eur": 420,
+    "rooms": 1,
+    "size_m2": 31,
+    "description": "1-room flat, 31 m². Features: elevator, fast fibre internet, bike storage in the basement. Calm and suburban, with a botanical garden and good shopping streets."
+  },
+  {
+    "title": "Stylish 2-room flat in Pankow",
+    "district": "Pankow",
+    "price_eur": 860,
+    "rooms": 2,
+    "size_m2": 57,
+    "description": "2-room flat, 57 m². Features: dishwasher included, new windows with good sound insulation, quiet courtyard. Green and peaceful, with villas, parks and a small-town feeling."
+  },
+  {
+    "title": "Bright 4-room flat in Mitte",
+    "district": "Mitte",
+    "price_eur": 2290,
+    "rooms": 4,
+    "size_m2": 104,
+    "description": "4-room flat, 104 m². Features: furnished, balcony, bright south-facing, pet-friendly. Central and busy, with museums, offices and great transport links."
+  },
+  {
+    "title": "Stylish 2-room flat in Treptow",
+    "district": "Treptow",
+    "price_eur": 830,
+    "rooms": 2,
+    "size_m2": 57,
+    "description": "2-room flat, 57 m². Features: fast fibre internet, elevator, quiet courtyard. Green and spacious, next to Treptower Park and the river Spree."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {"name": "Mitte", "rate": 21.0, "description": "Central and busy, with museums, offices and great transport links."},
+  {"name": "Kreuzberg", "rate": 19.0, "description": "Lively and creative, full of cafés, bars, street food and canal-side walks."},
+  {"name": "Friedrichshain", "rate": 18.5, "description": "Young and energetic, known for nightlife, street art and the East Side Gallery."},
+  {"name": "Prenzlauer Berg", "rate": 20.0, "description": "Leafy and family-friendly, with old buildings, playgrounds and weekend markets."},
+  {"name": "Neukölln", "rate": 16.5, "description": "Diverse and trendy, with international food, Tempelhofer Feld and a young crowd."},
+  {"name": "Charlottenburg", "rate": 19.5, "description": "Elegant and calm, with wide boulevards, the palace gardens and classic shopping."},
+  {"name": "Schöneberg", "rate": 18.0, "description": "Relaxed and residential, with good restaurants, markets and a strong community feel."},
+  {"name": "Wedding", "rate": 14.5, "description": "Affordable and changing fast, with parks, lakes and an authentic neighbourhood vibe."},
+  {"name": "Moabit", "rate": 15.5, "description": "Quiet and central, surrounded by water, with a local market hall."},
+  {"name": "Pankow", "rate": 15.0, "description": "Green and peaceful, with villas, parks and a small-town feeling."},
+  {"name": "Steglitz", "rate": 14.0, "description": "Calm and suburban, with a botanical garden and good shopping streets."},
+  {"name": "Treptow", "rate": 15.0, "description": "Green and spacious, next to Treptower Park and the river Spree."}
+]

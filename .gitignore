@@ -1,0 +1,12 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local only
+CLAUDE.local.md
+.claude/settings.local.json
+.env.*
+!.env.example

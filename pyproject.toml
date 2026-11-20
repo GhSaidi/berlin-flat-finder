@@ -1,0 +1,26 @@
+[project]
+name = "berlin-flat-finder"
+version = "0.1.0"
+description = "Semantic flat search for Berlin with PostgreSQL, pgvector and OpenAI"
+requires-python = "==3.12.*"
+dependencies = [
+    "streamlit>=1.40",
+    "psycopg[binary]>=3.2",
+    "pgvector>=0.3",
+    "numpy>=2.0",
+    "pandas>=2.2",
+    "openai>=1.60",
+    "python-dotenv>=1.0",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.8",
+]
+
+[tool.uv]
+required-version = "==0.13.7"
+package = false   # an app, not a library: uv only manages the environment
+
+[tool.ruff]
+line-length = 100

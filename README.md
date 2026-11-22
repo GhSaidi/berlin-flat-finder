@@ -62,7 +62,7 @@ Requires Docker, [uv](https://docs.astral.sh/uv/) and an OpenAI API key.
 ```
 cp .env.example .env
 docker compose up -d
-docker compose exec -T db psql -U postgres -d flats < sql/001_m1.sql
+scripts/migrate.sh
 uv sync
 uv run python generate_data.py
 uv run python seed.py
@@ -72,6 +72,21 @@ The default database credentials (`postgres`/`postgres`, overridable with `POSTG
 are for local development only; the database port is bound to `127.0.0.1`, and the deployed app uses a hosted
 database with its own credentials. Add your `OPENAI_API_KEY` to `.env` before seeding. `generate_data.py` is deterministic (fixed seed);
 `seed.py` embeds all 200 listings in one API call.
+
+## Development workflow
+Three small Bash scripts in `scripts/` wrap the database steps so they are repeatable:
+
+| Script | What it does | How it was used |
+|---|---|---|
+| `scripts/migrate.sh` | Applies every SQL file in `sql/` in order to the local Docker database. Each file is idempotent, so re-running is safe. | Creates the schema from `sql/001_m1.sql` (pgvector extension, `listings` table, HNSW index). |
+| `scripts/checkpoint.sh <tag>` | Saves a full database dump to `snapshots/<tag>.sql` after a finished, working task, then prints the git commands for committing, tagging and pushing (it does not run them). | Created `snapshots/m1.sql` for the `m1` tag. The same dump was later loaded into the hosted Neon database for deployment. |
+| `scripts/restore.sh <tag>` | Replaces the local `flats` database with a snapshot. Used together with resetting the code to the matching git tag. | Safety net for reverting a broken task; it was not needed during the hackathon. |
+
+Work happens on the `dev` branch; `main` only receives finished checkpoints (fast-forward merges), so every tag
+pairs working code with a matching database snapshot.
+
+The repository also contains Claude Code guardrails in `.claude/`: permission rules and hook scripts that block
+risky commands and protect secrets. See [CLAUDE.md](CLAUDE.md).
 
 ## Deploy
 1. Create a hosted PostgreSQL database with pgvector (e.g. Neon) and load the data:

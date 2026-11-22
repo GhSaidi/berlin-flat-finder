@@ -58,6 +58,9 @@ richer AI features. In that version:
   (`snapshots/<tag>.sql`) and prints the git commands to commit, fast-forward `main`, tag and push.
   Tags in order: `m1`, `m2a`, `m2b`, `m3a`, `m3b`.
 - To go back: reset the code to the tag with git, then `scripts/restore.sh <tag>` restores the database snapshot.
+- In practice: `snapshots/m1.sql` (from `scripts/checkpoint.sh m1`) also seeded the hosted Neon database;
+  `scripts/restore.sh` was never needed. The scripts call `psql` inside the Docker container, so no local
+  PostgreSQL client is required.
 
 ## Database rules
 - **Additive changes only.** Never DROP or RENAME a table or column. Older code must keep working

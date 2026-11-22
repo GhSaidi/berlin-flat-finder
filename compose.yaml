@@ -2,11 +2,11 @@ services:
   db:
     image: pgvector/pgvector:pg17
     environment:
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: ${POSTGRES_USER:-postgres}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-postgres}
       POSTGRES_DB: flats
     ports:
-      - "5432:5432"   # change to "5433:5432" if 5432 is already used on your laptop
+      - "127.0.0.1:5432:5432"   # local only; use "127.0.0.1:5433:5432" if 5432 is already used
     volumes:
       - pgdata:/var/lib/postgresql/data
 

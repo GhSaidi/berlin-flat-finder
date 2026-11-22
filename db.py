@@ -7,7 +7,7 @@ import numpy as np
 import psycopg
 from dotenv import load_dotenv
 from pgvector.psycopg import register_vector
-from psycopg.rows import dict_row
+from psycopg.rows import DictRow, dict_row
 
 load_dotenv()
 
@@ -36,12 +36,12 @@ class SearchResult(TypedDict):
     similarity: float
 
 
-Connection = psycopg.Connection[dict[str, Any]]
+Connection = psycopg.Connection[DictRow]
 
 
 def connect() -> Connection:
     """Open a connection using DATABASE_URL (local Docker or a hosted Postgres)."""
-    conn = psycopg.connect(os.environ["DATABASE_URL"], autocommit=True, row_factory=dict_row)
+    conn = Connection.connect(os.environ["DATABASE_URL"], autocommit=True, row_factory=dict_row)
     register_vector(conn)
     return conn
 
@@ -54,7 +54,7 @@ def search(
     district: str | None,
 ) -> list[SearchResult]:
     """Return the 10 listings closest in meaning to query_vec that pass the filters."""
-    params = {
+    params: dict[str, Any] = {
         "qvec": np.array(query_vec),
         "max_price": max_price,
         "min_rooms": min_rooms,
